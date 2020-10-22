@@ -8,7 +8,8 @@ Python 3.9
 2-Put the main.py on the Desktop or any place you have the cmd access to.
 
 3.Open the cmd and type:
-```bashcd Desktop
+```bash
+cd Desktop
 ```
 Then
 ```bash
