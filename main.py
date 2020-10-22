@@ -96,7 +96,7 @@ while play:
 
         if win(game):
             game_won = True
-            again = input("The game is over, would you like to pl,ay again? (y/n): ")
+            again = input("The game is over, would you like to play again? (y/n): ")
             if again.lower() == "y":
                 print("YES SIR!, just let me restart the game for you.")
             elif again.lower() == "n":
