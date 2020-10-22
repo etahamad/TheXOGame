@@ -1,6 +1,5 @@
 atomicwrites==1.4.0
 attrs==20.2.0
-col==0.1.0
 colorama==0.4.4
 more-itertools==8.5.0
 packaging==20.4
