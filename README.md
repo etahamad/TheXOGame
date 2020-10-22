@@ -1,5 +1,5 @@
 # TheXOGame
-A cmd X/O (Tic Tac Toe) game coded with python.
+A console X/O (Tic Tac Toe) game coded with python.
 # Requirements
 Python 3.9
 # How to run the game?
