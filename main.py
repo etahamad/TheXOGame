@@ -106,5 +106,3 @@ while play:
                 print("Not a valid answer, so...see you later.")
                 play = False
 
-
-# notes: rebase 0, 1, 2 / warp up
