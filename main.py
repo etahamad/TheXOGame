@@ -1,5 +1,6 @@
 '''
 Author: Omar Hamad
+Code: XO Game
 Telegram: @etahamad
 Date: 22/10/2020
 '''
