@@ -1,3 +1,9 @@
+'''
+Author: Omar Hamad
+Telegram: @etahamad
+Date: 22/10/2020
+'''
+
 import itertools
 
 
