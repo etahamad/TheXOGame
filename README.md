@@ -1,4 +1,4 @@
-# TheXOGame
+# The X/O Game.
 A console X/O (Tic Tac Toe) game coded with python.
 # Requirements
 Python 3.9
