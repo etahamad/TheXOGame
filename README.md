@@ -9,7 +9,7 @@ Python 3.9
 
 3.Open the cmd and type:
 ```bash
-cd /Desktop
+cd Desktop
 ```
 Then
 ```bash
