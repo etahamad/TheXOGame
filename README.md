@@ -4,6 +4,7 @@ A console X/O (Tic Tac Toe) game coded with python.
 Python 3.9
 # How to run the game?
 1-Download the "thexogame.exe" from the release section.
+
 2-Just run it.
 # How to play the game?
 It's a simple x/o game,there is two players, one has the number 1 and the number 2, the main number is 0, 0 means empty, got it?
