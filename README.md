@@ -22,6 +22,22 @@ It's a simple x/o game,there is two players, one has the number 1 and the number
 First run you will see:
 
 ```bash
+
+What size do you want for your xo game? ex.2, 3, 4:
+```
+Just type 3 for ex.
+
+Then you will see this:
+
+```bash
+   0  1  2
+0 [0, 0, 0]
+1 [0, 0, 0]
+2 [0, 0, 0]
+```
+Then
+
+```bash
 Current Player: 1
 What column do you want to play? (0, 1, 2):
 ```
