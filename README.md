@@ -25,7 +25,7 @@ First run you will see:
 
 What size do you want for your xo game? ex.2, 3, 4:
 ```
-Just type ```bash 3 ``` for ex.
+Just type ``` 3 ``` for ex.
 
 Then you will see this:
 
