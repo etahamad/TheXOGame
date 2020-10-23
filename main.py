@@ -66,7 +66,7 @@ def game_board(game_map, player=0, row=0, column=0, just_display=False):
 
     # error handling
     except IndexError as e:
-        print("Error: make sure you inout/column as 0 1 or 2,", e)
+        print("Error: make sure you inout column as 0 1 or 2,", e)
         return game_map, False
 
     except Exception as e:
@@ -105,4 +105,5 @@ while play:
             else:
                 print("Not a valid answer, so...see you later.")
                 play = False
-
+                
+                # Only for learing.
