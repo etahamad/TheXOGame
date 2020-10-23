@@ -77,10 +77,8 @@ def game_board(game_map, player=0, row=0, column=0, just_display=False):
 play = True
 players = [1, 2]
 while play:
-    game = [[0, 0, 0],
-            [0, 0, 0],
-            [0, 0, 0]]
-
+    game_size = int(input("What size do you want for your xo game? ex.2, 3, 4: "))
+    game = [[0 for i in range(game_size)] for i in range(game_size)]
     game_won = False
     game, _ = game_board(game, just_display=True)
     player_choice = itertools.cycle([1, 2])
